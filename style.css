@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#text-input {
+    width: 80%;
+    padding: 10px;
+    font-size: 18px;
+}
+
+#generate-button {
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+#qrcode {
+    margin-top: 20px;
+}
